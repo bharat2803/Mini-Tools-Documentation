@@ -1,6 +1,6 @@
-# Mini Tools Documentation
+# Utilities Toolkit Documentation
 
-Mini-tools repo is created to develop APIs for tools that can directly be used by consumers by a simple API call and hence, reduce their development time. The backend doesn't store any personal data of the users and hence, is totally secure. The steps on how to access and use the APIs are mentioned below. In case of any queries or feedback, feel free to reach out at:  
+Utilities-toolkit repo is created to develop APIs for tools that can directly be used by consumers by a simple API call and hence, reduce their development time. The backend doesn't store any personal data of the users and hence, is totally secure. The steps on how to access and use the APIs are mentioned below. In case of any queries or feedback, feel free to reach out at:  
 **nidhi.business.infotech@gmail.com**
 
 ## Mini Tools – Implementation Guide
@@ -97,3 +97,4 @@ curl --location 'https://mini-tools-live.onrender.com/api/decrypt-pdf' \
 --form 'password="<pdf-password>"'
 ```
 
+For more such APIs, please check out: https://docs.google.com/document/d/1ONO9s5U8_YQ3LltKIMq0iSJ742o7lewy-zhJNLRxjq4/edit?tab=t.0
